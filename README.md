@@ -1,3 +1,3 @@
 # Modeling
 
-Repository housing modeling notebooks for Remote Sensing of Brush Clearance to Enhance Wildfire Preparedness.
+This repository houses modeling code and files for the project titled "Remote Sensing of Defensible Space Compliance to Enhance Wildfire Preparedness".
