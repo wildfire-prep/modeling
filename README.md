@@ -30,7 +30,8 @@ Data is stored separately from our repository for the purposes of this analysis.
 │   └── requirements.txt
 ├── .gitignore
 ├── LICENSE
-└── README.md
+├── README.md
+└── REQUIREMENTS.txt
 ```
 
 ## License
